@@ -1,6 +1,6 @@
 #系统端口
 server:
-  port: 8082
+  port: 8083
 spring:
 #数据库连接
   datasource:
