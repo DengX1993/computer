@@ -1,6 +1,5 @@
 package com.cn.monitoring.computer.memory;
 
-import com.sun.javafx.tools.packager.Log;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import sun.util.logging.resources.logging;

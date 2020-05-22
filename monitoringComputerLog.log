@@ -10,3 +10,9 @@
 2020-05-21 23:38:22.542  INFO 5869 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
 2020-05-21 23:38:22.949  INFO 5869 --- [main] c.c.m.computer.ComputerApplicationTests  : Started ComputerApplicationTests in 1.851 seconds (JVM running for 2.691)
 2020-05-21 23:38:23.330  INFO 5869 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:16:14.485  INFO 7435 --- [main] c.c.m.computer.ComputerApplicationTests  : Starting ComputerApplicationTests on dengmac.local with PID 7435 (started by dengxu in /Users/dengxu/IdeaProjects/myProjects/computer)
+2020-05-22 10:16:14.488  INFO 7435 --- [main] c.c.m.computer.ComputerApplicationTests  : No active profile set, falling back to default profiles: default
+2020-05-22 10:16:15.106  WARN 7435 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.cn.monitoring.computer]' package. Please check your configuration.
+2020-05-22 10:16:15.744  INFO 7435 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:16:16.221  INFO 7435 --- [main] c.c.m.computer.ComputerApplicationTests  : Started ComputerApplicationTests in 2.105 seconds (JVM running for 3.133)
+2020-05-22 10:16:16.550  INFO 7435 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

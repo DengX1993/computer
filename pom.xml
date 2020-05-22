@@ -31,16 +31,16 @@
                 </exclusion>
             </exclusions>-->
         </dependency>
-     <!--   &lt;!&ndash; 配置 log4j2 &ndash;&gt;
+        <!-- 配置 log4j2 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-log4j2</artifactId>
         </dependency>
-        &lt;!&ndash; 加上这个才能辨认到log4j2.yml文件 &ndash;&gt;
+        <!-- 加上这个才能辨认到log4j2.yml文件 -->
         <dependency>
             <groupId>com.fasterxml.jackson.dataformat</groupId>
             <artifactId>jackson-dataformat-yaml</artifactId>
-        </dependency>-->
+        </dependency>
 
 
         <dependency>
