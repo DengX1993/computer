@@ -14,6 +14,6 @@ public class memoryController {
 
     @RequestMapping("test")
     public String testMemory(){
-        return  "oks";
+        return  "ok";
     }
 }
