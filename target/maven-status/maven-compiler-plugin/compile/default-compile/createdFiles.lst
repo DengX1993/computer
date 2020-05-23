@@ -1,0 +1,5 @@
+com/cn/util/RestFulResult.class
+com/cn/monitoring/computer/memory/MemoryController.class
+com/cn/monitoring/computer/memory/service/MemoryService.class
+com/cn/monitoring/computer/memory/serviceImpl/MemoryServiceImpl.class
+com/cn/util/RemoteCommandUtil.class
