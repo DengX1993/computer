@@ -1,0 +1,6 @@
+2020-05-23 15:52:31.866  INFO 12271 --- [main] c.c.m.computer.ComputerApplicationTests  : Starting ComputerApplicationTests on localhost with PID 12271 (started by dengxu in /Users/dengxu/IdeaProjects/myProjects/computer)
+2020-05-23 15:52:31.868  INFO 12271 --- [main] c.c.m.computer.ComputerApplicationTests  : No active profile set, falling back to default profiles: default
+2020-05-23 15:52:32.492  WARN 12271 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.cn.monitoring.computer]' package. Please check your configuration.
+2020-05-23 15:52:33.163  INFO 12271 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-23 15:52:33.668  INFO 12271 --- [main] c.c.m.computer.ComputerApplicationTests  : Started ComputerApplicationTests in 2.151 seconds (JVM running for 3.059)
+2020-05-23 15:52:34.027  INFO 12271 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
