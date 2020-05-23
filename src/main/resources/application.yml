@@ -8,6 +8,14 @@ spring:
     password: root
     url: jdbc:mysql://localhost:3306/springBootTest?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
     driver-class-name: com.mysql.jdbc.Driver
+#热部署参数配置
+    devtools:
+      restart:
+        enabled: true  #设置开启热部署
+        additional-paths: src #重启目录
+        #exclude: WEB-INF/**
+      freemarker:
+        cache: false    #页面不加载缓存，修改即时生效
 
 
 mybatis:
