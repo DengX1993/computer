@@ -19,8 +19,9 @@ spring:
 
 
 mybatis:
-  type-aliases-package:
-  mapper-locations: classpath:mappers/*.xml
+  mapper-locations: classpath*:mapping/*Mapping.xml
+  type-aliases-package: com.cn.monitoring.computer.memory.dao.model.User
+  # config-location: classpath:
 
 #log
 logging:

@@ -42,7 +42,7 @@
             <artifactId>jackson-dataformat-yaml</artifactId>
         </dependency>
 
-
+        <!--mybatis jar-->
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
@@ -109,7 +109,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-
             </plugin>
         </plugins>
     </build>

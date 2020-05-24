@@ -1,9 +1,11 @@
 package com.cn.monitoring.computer.memory.service;
 
-import org.springframework.stereotype.Service;
 
-@Service
+import com.cn.monitoring.computer.memory.dao.model.User;
+
 public interface MemoryService {
 
     public String executeCmd(String cmd);
+
+    public User selectUserByUuid(int uuid);
 }

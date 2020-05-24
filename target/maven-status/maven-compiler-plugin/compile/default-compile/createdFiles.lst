@@ -3,5 +3,7 @@ com/cn/monitoring/computer/memory/service/MemoryService.class
 com/cn/monitoring/computer/ComputerApplication.class
 com/cn/util/RemoteCommandUtil.class
 com/cn/util/RestFulResult.class
-com/cn/monitoring/computer/memory/serviceImpl/MemoryServiceImpl.class
 com/cn/monitoring/computer/ServletInitializer.class
+com/cn/monitoring/computer/memory/dao/model/User.class
+com/cn/monitoring/computer/memory/dao/mapper/UserMapper.class
+com/cn/monitoring/computer/memory/serviceImpl/MemoryServiceImpl.class
