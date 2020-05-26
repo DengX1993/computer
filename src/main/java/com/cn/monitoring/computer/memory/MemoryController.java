@@ -24,7 +24,7 @@ public class MemoryController {
     @PostMapping(value = "testPost")
     @ResponseBody
     public String testPost(){
-        return  "ok";
+        return  "ok2222";
     }
 
     @GetMapping(value = "execCmdInLinux/{cmd}")
